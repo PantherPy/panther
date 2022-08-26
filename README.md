@@ -33,7 +33,7 @@ Python 3.10+
     <div class="termy">
     
     ```console
-    $ panther create
+    $ panther create <project_name>
     ```
     </div>
 - #### Run Project
